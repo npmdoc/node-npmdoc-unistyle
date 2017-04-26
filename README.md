@@ -1,6 +1,6 @@
 # npmdoc-unistyle
 
-#### api documentation for  [unistyle (v0.4.0)](https://github.com/joakimbeng/unistyle#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-unistyle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-unistyle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-unistyle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-unistyle)
+#### basic api documentation for  [unistyle (v0.4.0)](https://github.com/joakimbeng/unistyle#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-unistyle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-unistyle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-unistyle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-unistyle)
 
 #### Write modular and scalable CSS using the next version of ECMAScript.
 
